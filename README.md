@@ -1,26 +1,30 @@
-🛒 Sistem Analizi ve Tasarımı – E-Ticaret Platformu
+🛒 Sistem Analizi ve Tasarımı Projesi – E-Ticaret Platformu
 
-Bu GitHub deposu, BTBS315 dersi kapsamında geliştirdiğimiz **çevrimiçi e-ticaret sistemi** analiz ve tasarım projesini içermektedir. Projede yazılım gereksinimleri belgesi (SRS), UML diyagramları ve proje açıklamaları yer almaktadır.
+Bu proje, **Doğu Akdeniz Üniversitesi – Bilişim Sistemleri ve Teknolojileri Bölümü kapsamında yürütülen "Sistem Analizi ve Tasarımı dersi için hazırlanmıştır. Projede, örnek bir e-ticaret sisteminin analiz ve tasarım süreçleri detaylı olarak ele alınmış ve UML diyagramları ile desteklenmiştir.
 
-📚 İçerik
+📂 Proje İçeriği
 
-Belgeler:
-- `315PROJE.pdf` – Yazılım Gereksinimleri Dokümanı (SRS)
-- `315PROJE.docx` – Word formatındaki proje raporu
+Belgeler
+- `E-Commerce_SRS_Document.pdf` / `E-Commerce_SRS_Document.docx`: Projenin detaylı açıklamasını içeren yazılım gereksinimleri raporu.
+- `Bilgilendirme.txt`: Proje hakkında kısa bilgilendirme notu.
 
-Diyagramlar:
-- `USE-CASE-Diyagramı.pdf` – Kullanım senaryolarını gösteren diyagram
-- `SınıfDiagramı.pdf` – Sistem sınıf yapısını gösteren UML diyagramı
-- `Tasarım-Sınıfı-Diagramı.pdf` – Tasarıma özgü detaylandırılmış sınıf ilişkileri
+Diyagramlar
+- `Use_Case_Diagram.pdf`: Sistem kullanıcılarının etkileşimlerini gösteren kullanım senaryosu diyagramı.
+- `System_Class_Diagram.pdf`: Sistem sınıfları arasındaki ilişkileri gösteren sınıf diyagramı.
+- `Design_Level_Class_Diagram.pdf`: Nesne yönelimli tasarım sürecine ait detaylandırılmış sınıf diyagramı.
+
+🛠️ Kullanılan Araçlar
+- UML diyagramları için: Visual Paradigm
+- Belge düzenleme: Microsoft Word ve Adobe Acrobat (PDF)
 
 🎯 Proje Amacı
+Bu projenin amacı, çevrimiçi bir alışveriş platformunun işlevsel gereksinimlerini analiz etmek, UML diyagramları aracılığıyla modellemek ve gelecekteki yazılım geliştirme süreçleri için güçlü bir temel oluşturmaktır.
 
-Bu proje ile kullanıcıların ürünleri kolayca bulabileceği, yöneticilerin ürün yönetimini basit bir arayüzle yapabileceği bir e-ticaret platformunun analiz ve tasarımı gerçekleştirilmiştir.
+📌 Notlar
+Bu projede sunulan analiz ve tasarım belgeleri, örnek bir senaryo üzerinden modellenmiştir. Yazılım geliştirme veya kodlama içermemektedir; ancak sistemin mimari ön tasarımı açısından önemli bir örnek teşkil eder.
 
-🛠️ Kullanılan Yöntemler ve Teknikler
-
-- Yazılım gereksinimleri dokümantasyonu (SRS)
-- UML ile modelleme: Use Case ve Sınıf diyagramları
-- Raporlama ve belge tasarımı
+📧 İletişim
+Herhangi bir sorunuz varsa veya katkıda bulunmak isterseniz benimle GitHub üzerinden iletişime geçebilirsiniz.  
+🔗 [https://github.com/burakuruk](https://github.com/burakuruk)
 
 

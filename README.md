@@ -1,6 +1,6 @@
 🛒 Sistem Analizi ve Tasarımı Projesi – E-Ticaret Platformu
 
-Bu proje, Doğu Akdeniz Üniversitesi – Bilişim Sistemleri ve Teknolojileri Bölümü kapsamında yürütülen "Sistem Analizi ve Tasarımı dersi için hazırlanmıştır. Projede, örnek bir e-ticaret sisteminin analiz ve tasarım süreçleri detaylı olarak ele alınmış ve UML diyagramları ile desteklenmiştir.
+Bu proje, Doğu Akdeniz Üniversitesi – Bilişim Sistemleri ve Teknolojileri Bölümü kapsamında yürütülen "Sistem Analizi ve Tasarımı" dersi için hazırlanmıştır. Projede, örnek bir e-ticaret sisteminin analiz ve tasarım süreçleri detaylı olarak ele alınmış ve UML diyagramları ile desteklenmiştir.
 
 📂 Proje İçeriği
 
